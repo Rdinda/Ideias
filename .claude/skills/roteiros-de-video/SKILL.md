@@ -119,6 +119,13 @@ Ao entregar o roteiro final:
    em português.
 4. Quando fizer sentido, ofereça 1 variação alternativa de gancho — o gancho é o ponto de maior
    risco do vídeo, e ter uma segunda opção ajuda o usuário a escolher ou fazer teste A/B.
+5. Se estiver trabalhando dentro de um repositório, salve o roteiro final como arquivo `.md` no
+   repositório, não só na resposta do chat — assim o roteiro fica versionado e fácil de achar
+   depois. Crie uma pasta `roteiros/<slug-do-roteiro>/` (slug curto e descritivo do tema/vídeo, em
+   minúsculas e com hífen, ex.: `roteiros/tranca-rua-peca-3d-impressa/`) e salve o conteúdo em
+   `roteiros/<slug-do-roteiro>/roteiro.md`, com o mesmo conteúdo entregue no chat (resumo do
+   briefing + roteiro completo). Se o usuário pedir revisões depois, atualize esse mesmo arquivo em
+   vez de criar um novo a cada versão.
 
 ## Referências
 
